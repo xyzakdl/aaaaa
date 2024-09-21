@@ -3,4 +3,10 @@ second
 third
 fourth
 
+<<<<<<< HEAD
 MERGE
+=======
+
+
+MERGE 2
+
